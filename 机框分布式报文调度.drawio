@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T03:35:03.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3cqZ4DFEwJ8KQTlYUjup" version="21.3.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-15T03:37:03.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="w-L9b-VU_KnHmzrrs0L4" version="21.3.8" type="github" pages="4">
   <diagram name="tunnel" id="sJVGm41Y1vk9dWb-SWA8">
     <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,6 +249,12 @@
         </mxCell>
         <mxCell id="2CbTemHDCBdW3-msAV50-18" value="gport：0-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2CbTemHDCBdW3-msAV50-20" value="旧分流方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2CbTemHDCBdW3-msAV50-21" value="优化后的分流方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="650" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
