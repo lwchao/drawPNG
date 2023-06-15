@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T09:46:25.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VhsV2CGYsKOuElF_pv4s" version="21.3.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-15T09:47:27.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ohW2Iu89NZaYGPU-VDfC" version="21.3.8" type="github" pages="6">
   <diagram name="tunnel" id="sJVGm41Y1vk9dWb-SWA8">
     <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
         <mxCell id="z4c_7MiQhh2cIIkrksX1-31" value="flow_comm_forward" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z4c_7MiQhh2cIIkrksX1-33" value="收到调度报文" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z4c_7MiQhh2cIIkrksX1-33" value="收到调度报文" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z4c_7MiQhh2cIIkrksX1-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20;endSize=8;" edge="1" parent="1">
@@ -581,10 +581,10 @@
         <mxCell id="z4c_7MiQhh2cIIkrksX1-51" value="vxlan 解封装" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q4Xs6ydNYyxMzMZB6NGC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="z4c_7MiQhh2cIIkrksX1-55" target="z4c_7MiQhh2cIIkrksX1-33">
+        <mxCell id="q4Xs6ydNYyxMzMZB6NGC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="z4c_7MiQhh2cIIkrksX1-55" target="z4c_7MiQhh2cIIkrksX1-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4c_7MiQhh2cIIkrksX1-55" value="chx_dispatch_layer2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z4c_7MiQhh2cIIkrksX1-55" value="chx_dispatch_layer2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q4Xs6ydNYyxMzMZB6NGC-1" value="skb_eth_proc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
